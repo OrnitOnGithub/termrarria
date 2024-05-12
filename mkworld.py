@@ -1,4 +1,4 @@
-worldsize_x = 100
+worldsize_x = 50
 worldsize_y = 50
 
 with open("world.save", "w") as world:
